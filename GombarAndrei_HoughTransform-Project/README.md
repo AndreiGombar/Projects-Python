@@ -1,4 +1,5 @@
-Hough Transform
+Hough Transform Project
+
 
 Hough Transform represents a tool used in processing of images for line detection.
 
